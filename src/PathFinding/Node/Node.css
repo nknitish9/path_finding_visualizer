@@ -43,7 +43,7 @@
 }
 
 .node-shortest-path{
-    animation-name: sortestPath;
+    animation-name: shortestPath;
     animation-duration: 1.5s;
     animation-timing-function: ease-out;
     animation-delay: 0;
